@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(../images/flower1.png);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ityped {
+  font-family: 'Kosugi Maru', sans-serif;
+  font-size: 6rem;
+}
+i {
+  color: red;
+}
